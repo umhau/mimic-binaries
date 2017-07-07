@@ -1,1 +1,1 @@
-x86_64_4.10.0-26-generic_Linux
+x26_64_4.10.0-26-generic_Linux
