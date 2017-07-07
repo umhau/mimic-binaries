@@ -1,0 +1,1 @@
+This contains mimic binaries, sorted by folder by platform.  Scripts, such as are used to split files into palatable sizes, are kept in the ./scripts folder.
