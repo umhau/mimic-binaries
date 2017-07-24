@@ -17,7 +17,7 @@ split_binary() {
 
     split -b $piece_size $filename
     rm -fr $foldername && mkdir $foldername
-    mv x* $foldername/ 2>/dev/null
+    mv xa* $foldername/ 2>/dev/null
 
     # tar cvzf - dir/ | split -b 200MB - sda1.backup.tar.gz.
 
